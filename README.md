@@ -45,7 +45,7 @@ Check nginx:
 
 nginx -v
 
-Access: http://<public-ip>
+Access: http://<<public-ip>>
 
 ---
 
