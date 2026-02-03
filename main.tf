@@ -33,7 +33,7 @@ resource "aws_security_group" "web_sg" {
 
 # EC2 Instance
 resource "aws_instance" "custom_ec2" {
-  ami           = "ami-09223ec74152759e7"
+  ami           = "ami-0e510cb461d027655"
   instance_type = "t2.micro"
   key_name      = "Mumbai-server-key"
 
